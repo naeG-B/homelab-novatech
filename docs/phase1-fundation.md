@@ -48,12 +48,15 @@
 ### Evidence & Documentation
 
 ![AD DS Role Installation](../screenshots/f1-03-adds-installation.png)
+
 *Figure 1.3: Completion of the AD DS role installation wizard.*
 
 ![Domain Login Interface](../screenshots/f1-04-domain-login-prompt.png)
+
 *Figure 1.4: Server login prompt reflecting the domain context (NOVATECH\Administrator).*
 
 ![Server Manager AD DS & DNS Status](../screenshots/f1-05-server-manager-dashboard.png)
+
 *Figure 1.5: Server Manager dashboard confirming active AD DS and DNS operational states.*
 
 ---
@@ -66,9 +69,11 @@
 ### Evidence & Documentation
 
 ![PowerShell Script Execution Output](../screenshots/f1-06-powershell-execution.png)
+
 *Figure 1.6: Execution output of the PowerShell provisioning script confirming OU and user account creation.*
 
 ![Active Directory Users and Computers Structure](../screenshots/f1-07-ad-structure-dsa.png)
+
 *Figure 1.7: Active Directory Users and Computers (dsa.msc) displaying the newly generated OUs and populated user objects.*
 
 ---
